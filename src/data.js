@@ -1,4 +1,4 @@
-import { fundamentalsCollection } from "./data/fundamentals.js";
+import { rpa } from "./data/rpa.js";
 import { webcomponentsCollection } from "./data/web-components.js";
 import { uipath } from "./data/uipath.js";
 import { pwaCollection } from "./data/pwa.js";
@@ -16,7 +16,7 @@ import { databasesCollection } from "./data/databases.js";
  * All available collections.
  */
 export const collections = [
-	fundamentalsCollection,
+	rpa,
 	uipath,
 	webcomponentsCollection,
 	pwaCollection,
