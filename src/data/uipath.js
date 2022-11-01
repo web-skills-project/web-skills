@@ -1,11 +1,11 @@
-export const accessibilityCollection = {
-	name: "UiPath",
+export const uipath = {
+	name: "uipath",
 	areas: [
 		{
 			skills: [
 
 				{
-					name: "RPA Tools",
+					name: "rpa tools",
 					description: {
 						text: "Most Popular Robotic Process Automation RPA Tools",
 						links: [
@@ -18,7 +18,7 @@ export const accessibilityCollection = {
 				},
 
 				{
-					name: "UiPath",
+					name: "uipath",
 					description: {
 						text: "UiPath Studio is advanced automation software that gives everyone, from business users to advanced RPA developers, the right automation canvas to build great software robots—and organizations the right governance tools to manage them all.",
 						links: [
@@ -30,29 +30,29 @@ export const accessibilityCollection = {
 					// below UiPath Studio >>
 					skills: [
 						{
-							name: "UiPath Studio",
-					description: {
-						text: "UiPath Studio is advanced automation software that gives everyone, from business users to advanced RPA developers, the right automation canvas to build great software robots—and organizations the right governance tools to manage them all.",
-						links: [
-							["UiPath Studio", "https://docs.uipath.com/studio"],
+							name: "uipath studio",
+							description: {
+								text: "UiPath Studio is advanced automation software that gives everyone, from business users to advanced RPA developers, the right automation canvas to build great software robots—and organizations the right governance tools to manage them all.",
+								links: [
+									["UiPath Studio", "https://docs.uipath.com/studio"],
 								]
 							}
 						},
 						{
-							name: "UiPath Academy",
-					description: {
-						text: "Start your own transformation based on the type of work you currently perform and where you want to be tomorrow.",
-						links: [
-							["UiPath Academy", "https://academy.uipath.com/"],
+							name: "uipath academy",
+							description: {
+								text: "Start your own transformation based on the type of work you currently perform and where you want to be tomorrow.",
+								links: [
+									["UiPath Academy", "https://academy.uipath.com/"],
 								]
 							}
 						},
 						{
-							name: "UiPath Forum",
-					description: {
-						text: "Find the solution, ask questions, help others and stay up to date about our products and community initiatives.",
-						links: [
-							["UiPath Forum", "https://forum.uipath.com/"],
+							name: "uipath forum",
+							description: {
+								text: "Find the solution, ask questions, help others and stay up to date about our products and community initiatives.",
+								links: [
+									["UiPath Forum", "https://forum.uipath.com/"],
 								]
 							}
 						},
@@ -61,29 +61,29 @@ export const accessibilityCollection = {
 					// << below UiPath Studio
 				},
 				{
-					name: "UiPath Documentation Portal",
+					name: "uipath documentation portal",
 					description: {
 						text: "The UiPath Documentation Portal - the home of all our valuable information.",
 						links: [
 							["Introduction", "https://docs.uipath.com/orchestrator/docs/introduction"],
 							["The UiPath StudioX Guide", "https://docs.uipath.com/studiox"],
 							["The UiPath Orchestrator Guide", "https://docs.uipath.com/orchestrator"],
-								]
+						]
 					}
 				},
 				{
-					name: "UiPath-Tutorial",
+					name: "uipath-tutorial",
 					description: {
 						text: "UiPath-Tutorial",
 						links: [
 							["RPA Video Tutorials - UiPath", "https://www.uipath.com/learning/video-tutorials"],
 							["UiPath Tutorial - Javatpoint", "https://www.javatpoint.com/uipath"],
-							
+
 						]
 					}
 				},
 				{
-					name: "UiPath Interview Questions",
+					name: "uipath interview questions",
 					description: {
 						text: "UiPath Interview Questions",
 						links: [
@@ -93,9 +93,9 @@ export const accessibilityCollection = {
 						]
 					}
 				},
-			
+
 				{
-					name: "UiPath Extensions",
+					name: "uipath extensions",
 					description: {
 						text: "UiPath extensions help you broaden your automation capabilities to web browsers, Java applications, Silverlight applications, and Citrix Virtual Apps and Desktops, as well as over RDP connections, and more. They enable native detection of UI elements in such environments, so that selectors are properly built.",
 						links: [
